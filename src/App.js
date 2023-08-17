@@ -1,9 +1,9 @@
-import './App.css';
+import "./App.css";
 
-import background from '../src/images/Rectangle 115.png';
-import Main from './components/Main';
-import Navbar from './components/Navbar';
-import Sidebar from './components/Sidebar';
+import background from "../src/images/Rectangle 115.png";
+import Main from "./components/Main";
+import Navbar from "./components/Navbar";
+import Sidebar from "./components/Sidebar";
 
 function App() {
   return (
@@ -21,7 +21,7 @@ function App() {
         </div>
         <div className=" basis-[88%]">
           <Navbar />
-          <Main/>
+          <Main />
         </div>
       </div>
     </div>
