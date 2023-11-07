@@ -29,15 +29,15 @@ const router = createBrowserRouter([
     element: <OrdersPage />,
   },
   {
-    path: "Groupss",
+    path: "Groups",
     element: <GroupsPage />,
   },
   {
-    path: "Product list",
+    path: "Product-list",
     element: <ProductsList />,
   },
   {
-    path: "Add products",
+    path: "Add-products",
     element: <AddProducts />,
   },
   {
